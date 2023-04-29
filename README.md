@@ -1,5 +1,11 @@
 # Crapblox
 
+## DO NOT USE IN PRODUCTION !!!
+
+This code is a horrible mismash and a horrile weird combination of code from years ago, and this is not even using a proper MVC framework.
+
+Do not build on top of this code.
+
 ## Environment Options
 
 ### MMMMOH_ENABLE
